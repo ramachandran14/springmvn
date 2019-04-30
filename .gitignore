@@ -1,0 +1,8 @@
+*.class
+*.war
+*.jar
+test-output/
+.settings/
+target/
+.classpath
+.project
